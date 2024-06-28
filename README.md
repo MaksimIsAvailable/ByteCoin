@@ -1,4 +1,4 @@
-# ByteCoin 🪙
+# ByteCoin ₿
 This app will help you to always keep up to date with the value of bitcoin in different currencies.
 
 ## ⚒️ Tools used by me to design and develop this application
