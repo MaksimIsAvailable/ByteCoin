@@ -107,7 +107,7 @@ extension ViewController {
         
         currencyPicker.snp.makeConstraints { make in
             make.left.right.equalToSuperview()
-            make.height.equalTo(250)
+            make.height.equalTo(450)
             make.bottom.equalTo(view.safeAreaLayoutGuide)
         }
     }
